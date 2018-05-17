@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SIL">
+</Property><Property Name="Solution File" Value="C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL.suo">
+</Property><Property Name="Date" Value="Wednesday, May 16, 2018">
+</Property><Property Name="Time" Value="19:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SIL.sln" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SIL.suo" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL.suo">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\SIL_GUI.csproj" Description="Project file successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\SIL_GUI.csproj">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\SIL_GUI.csproj.user" Description="Project user file successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\SIL_GUI.csproj.user">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmDrawLine.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmDrawLine.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmDrawLine.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmDrawLine.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmErrList.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmErrList.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmErrList.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmErrList.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmIntro.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmIntro.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmIntro.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmIntro.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmMain.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmMain.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmEditor.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmEditor.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmEditor.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmEditor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmOutput.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmOutput.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmOutput.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmOutput.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmRead.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmRead.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmRead.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmRead.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmWizard.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmWizard.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmWizard.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmWizard.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\GlobalSettings.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\GlobalSettings.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Program.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Program.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\ClassDiagram2.cd" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Resources\Intro.png" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Resources\Intro.png">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmDrawLine.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmDrawLine.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmErrList.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmErrList.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmEditor.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmEditor.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmIntro.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmIntro.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmMain.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmOutput.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmOutput.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmRead.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmRead.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\frmWizard.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\frmWizard.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\SIL_GUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SIL_GUI" Source="SIL\SIL_GUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_Core.csproj" Description="Project file successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\SIL_Core.csproj">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\ArrayTable.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\ArrayTable.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\Compiler.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\Compiler.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\Exceptions.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\FunctionTable.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\FunctionTable.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\Parser.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\Parser.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_IO.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\SIL_IO.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_Program.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\SIL_Program.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_DataTypes.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\SIL_DataTypes.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SymbolTable.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_Core\SymbolTable.cs">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SIL_Core" Source="SIL_Core\SIL_Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\SIL_CommandLine.csproj" Description="Project file successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_CommandLine\SIL_CommandLine.csproj">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\SIL_CommandLine.csproj.user" Description="Project user file successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_CommandLine\SIL_CommandLine.csproj.user">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\CommandLine.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_CommandLine\CommandLine.cs">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\Program.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_CommandLine\Program.cs">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\Backup\SIL_CommandLine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\SIL_CommandLine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SIL_CommandLine" Source="SIL_CommandLine\SIL_CommandLine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SIL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SIL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SIL_GUI" Source="SIL\SIL_GUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SIL_Core" Source="SIL_Core\SIL_Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SIL_CommandLine" Source="SIL_CommandLine\SIL_CommandLine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

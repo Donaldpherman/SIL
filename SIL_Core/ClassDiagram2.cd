@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SIL_Core.Compiler">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SIL_Core.Compiler.Action" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Compiler.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="SIL_Core.Compiler.ExecuteAction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Compiler.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAABAVQAABAAAAAAAEAAAAAAgAAAAAAAAEA=</HashCode>
+      <FileName>Compiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SIL_Action">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SIL_Core.SIL_Action.Action" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAACAAQAAAAIAAAAAAIAEAAAAAAAAAAEBAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.Parser">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SIL_Core.Parser.ParseAction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAgEAAAQAAAAQAAIAAAAAAAgAAAIBAAAAACAAAAEAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SILInteger" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQBgAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SIL_Core.SILVariable">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAAAQAgAAAAIAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SIL_Core.SILArrayElement">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAEAAAAAQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SIL_Math">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SIL_IO">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SIL_IO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SIL_Program">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAABAAQAAAAAAAQAAAAAAAAAAAAACAAAIAA=</HashCode>
+      <FileName>SIL_Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SIL_Core.SymbolTable">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABABAAAAAIAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>SymbolTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SIL_Core.SILEquation" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQEgAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Interface Name="SIL_Core.ISILObject">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SIL_Core.ActionType">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SIL_Core.MathOperator">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAAAAAAgAABAAABAAgIAAAAQCAAAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SIL_Core.ObjectType">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAgAAAAQAAAAAAAA=</HashCode>
+      <FileName>SIL_DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

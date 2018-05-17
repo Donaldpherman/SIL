@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/CECS543/SIM/svn/!svn/ver/86/SIL_Core
+END
+Parser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/CECS543/SIM/svn/!svn/ver/86/SIL_Core/Parser.cs
+END
+FunctionBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/CECS543/SIM/svn/!svn/ver/52/SIL_Core/FunctionBuilder.cs
+END
+SymbolTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/CECS543/SIM/svn/!svn/ver/83/SIL_Core/SymbolTable.cs
+END
+FunctionTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/CECS543/SIM/svn/!svn/ver/83/SIL_Core/FunctionTable.cs
+END
+SIL_IO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/CECS543/SIM/svn/!svn/ver/30/SIL_Core/SIL_IO.cs
+END
+SIL_Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/CECS543/SIM/svn/!svn/ver/30/SIL_Core/SIL_Program.cs
+END
+Exceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/CECS543/SIM/svn/!svn/ver/83/SIL_Core/Exceptions.cs
+END
+SIL_DataTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/CECS543/SIM/svn/!svn/ver/86/SIL_Core/SIL_DataTypes.cs
+END
+ArrayTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/CECS543/SIM/svn/!svn/ver/78/SIL_Core/ArrayTable.cs
+END
+Compiler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/CECS543/SIM/svn/!svn/ver/83/SIL_Core/Compiler.cs
+END
+SIL_Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/CECS543/SIM/svn/!svn/ver/83/SIL_Core/SIL_Core.csproj
+END

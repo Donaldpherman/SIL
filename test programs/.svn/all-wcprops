@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/CECS543/SIM/svn/!svn/ver/33/test%20programs
+END
+println This program calculates hourly salary with overtime.sim
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CECS543/SIM/svn/!svn/ver/33/test%20programs/println%20This%20program%20calculates%20hourly%20salary%20with%20overtime.sim
+END
+test.sim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/CECS543/SIM/svn/!svn/ver/33/test%20programs/test.sim
+END

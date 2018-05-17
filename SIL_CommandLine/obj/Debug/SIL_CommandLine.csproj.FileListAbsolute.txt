@@ -1,0 +1,9 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL_CommandLine.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL_CommandLine.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\bin\Debug\SIL_Core.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\obj\Debug\SIL_CommandLine.exe
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_CommandLine\obj\Debug\SIL_CommandLine.pdb

@@ -1,0 +1,20 @@
+INTEGER x
+FUNCTION Main()
+INTEGER x
+PRINTLN "test println"
+LET x=(1+3)*5
+PRINT "x="+x
+INTEGER y
+LET y=((x+1) * 2) / 7
+PRINTLN "y="+y
+INTEGER z
+LET z= x * y+10 /2 - 3 * 24
+PRINT "z="+z
+PRINTLN "software coding is fun"
+READ x,"Input rate"
+PRINT "Input Rate:"
+PRINT x
+DRAWLINE (RED,20,20,20,200)
+DRAWLINE (Blue, 50,50,200,300)
+DRAWLINE (GREEN,10,10,1000,0)
+ENDFUNCTION

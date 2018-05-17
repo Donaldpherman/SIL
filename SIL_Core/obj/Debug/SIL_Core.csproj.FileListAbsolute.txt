@@ -1,0 +1,5 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\Debug\SIL_Core.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\Debug\SIL_Core.pdb

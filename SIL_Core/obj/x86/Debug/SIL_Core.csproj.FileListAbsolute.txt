@@ -1,0 +1,15 @@
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.pdb
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.dll
+C:\Users\Donald\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.pdb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.dll
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.pdb
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.dll
+C:\Users\Donald\Dropbox\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.pdb
+C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.dll
+C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\bin\x86\Debug\SIL_Core.pdb
+C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.csprojResolveAssemblyReference.cache
+C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.dll
+C:\Users\Donald\SkyDrive\Documents\Visual Studio 2008\Projects\SIL\SIL_Core\obj\x86\Debug\SIL_Core.pdb

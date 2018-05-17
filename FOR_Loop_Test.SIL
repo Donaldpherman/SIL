@@ -1,0 +1,13 @@
+INTEGER x
+FUNCTION Main()
+INTEGER x
+INTEGER y
+FOR x = 5, x < (3 + 2) * 4, x = x + 2
+PRINTLN "x="+x
+PRINTLN ""
+FOR y = 1, (y < 8) | (y=8), y = y * 2
+PRINTLN "y="+y
+NEXT
+PRINTLN ""
+NEXT
+ENDFUNCTION
